@@ -19,7 +19,7 @@ Actuellement en train de travailler sur du reverse et de progresser avec Volatil
 | cpp piscine      | c++                     | privé       | Création de petits projets en C++ pendant un rush pour explorer la programmation orientée objet. | POO |
 | cub3d            | c                       | public        | Créer un programme de labyrinthe à la Wolfenstein3D. Projet en équipe. | Raycasting, Graphisme |
 | net_practice     | net_practice top language |     | Résoudre des problèmes d'adressage IP et des problèmes réseau dans une interface de formation. | Réseau, Adressage IP |
-| ft_irc           | c++                     | public/privé        | Créer un serveur de chat IRC en C++. Projet en équipe avec la talentueuse Elena-lou. | Réseau, C++ |
+| ft_irc           | c++                     | public        | Créer un serveur de chat IRC en C++. Projet en équipe avec la talentueuse Elena-lou. | Réseau, C++ |
 | inception        | dockerfile  | public/       | Mettre en place un réseau Docker avec des conteneurs pour nginx, mariadb, et wordpress. | Docker, DevOps |
 | transcendence    | typescript | privé     | Créer un site web où les utilisateurs peuvent discuter et jouer au pong. Projet en équipe. | Web, WebSocket |
 | snow-crash       | snow_crash top language | public/privé     | Introduction à la sécurité informatique. Projet Capture the Flag pour se familiariser avec les erreurs de programme et les failles de sécurité. Exploration d'ASM, PHP, Perl, C, fichiers binaires et configurations système. | Cybersécurité, Reverse Engineering |
