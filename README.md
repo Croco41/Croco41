@@ -11,7 +11,7 @@ Actuellement en train de travailler sur du reverse et de progresser avec Volatil
 | libft            | c                       | privé        | Créer une bibliothèque de fonctions de base en C. | Pointeurs, Allocation dynamique |
 | ft_printf        | c                       | privé        | Recréer la fonction printf de la bibliothèque standard C. | Formatage, Manipulation de chaînes |
 | get_next_line    | c                       | privé      | Lire une seule ligne depuis un descripteur de fichier, utilisable dans une boucle. | Lecture de fichiers, Pointeurs |
-| so_long          | c                       | public        |                                  | Graphisme |
+| so_long          | c                       | public        | Créer un jeu vidéo 2D simple avec des textures et des sprites en utilisant la bibliothèque MiniLibX.                                 | Graphisme |
 | pipex            | c                       | privé        | Recréer le comportement du pipe du shell. | IPC, Gestion de processus |
 | push_swap        | c                       | privé        | Trier une liste de nombres aléatoires avec le moins de mouvements possible. | Algorithmes de tri, Optimisation |
 | minishell        | c                       | privé        | Créer un mini shell. Projet en équipe. | Shell, Parsing |
